@@ -1,2 +1,2 @@
-# PTU-Core-Stuff
-PTU Core features, edges, abilities, species, items, and all that jazz.
+# Core-PTU-Stuff
+Core PTU features, edges, abilities, species, items, and all that jazz.
